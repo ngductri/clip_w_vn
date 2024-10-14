@@ -1,4 +1,10 @@
 # Project: Applying Vietnamese language to the CLIP model
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hrho3rsZdJbwwR9o-JbF_6kW_4H_X3Jo?usp=sharing)
+
+$${\color{red}There\space is\space a\space lot\space of\space excess\space and\space incomplete\space code\space here\space because\space we\space are\space in\space the\space process\space of\space testing\space and\space improving!
+}$$
+
 This Jupyter notebook can be considered an exercise to help me learn how to handle both image and text processing. Additionally, it helps me get familiar with OpenAI's CLIP model and apply Gradio UI to create an interface.
 These following steps:
   1. Using dataset from Kaggle: [Flick 30k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr30k)
@@ -50,6 +56,8 @@ These following steps:
    ```python
    !pip install gradio -q
    ```
+
+   Thank you for viewing !!!!
 
 
 
